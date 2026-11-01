@@ -1,0 +1,12 @@
+result/
+result_v2/
+.venv*/
+__pycache__/
+*.pyc
+*.log
+models/*/
+!models/*.py
+!models/*.sh
+*.npy
+*.npz
+*.faiss
